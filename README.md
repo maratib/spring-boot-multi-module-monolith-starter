@@ -9,7 +9,7 @@ The app structured as follows:-
     - common
     - api-web
 
-`api-web` module uses some services from 'common' module
+`api-web` module uses some services from `common` module
 
 ## VS Code enabled
 This project is VS Code enabled code compilation, autocompletion etc. 
